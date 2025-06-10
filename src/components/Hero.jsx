@@ -61,6 +61,7 @@ const Hero = () => {
             id="hero"
             style={{
                 background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                marginTop: "30px",
                 minHeight: '100vh',
                 color: heroSectionData.textColor,
                 padding: heroSectionData.padding

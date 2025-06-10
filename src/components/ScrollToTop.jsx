@@ -34,8 +34,8 @@ const ScrollToTop = () => {
                     right: 30px;
                     background: #ffd700;
                     color: #1e3c72;
-                    width: 50px;
-                    height: 50px;
+                    width: 55px;
+                    height: 55px;
                     border-radius: 50%;
                     display: flex;
                     align-items: center;
