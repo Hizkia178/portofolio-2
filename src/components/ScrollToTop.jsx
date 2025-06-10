@@ -62,18 +62,7 @@ const ScrollToTop = () => {
                     font-size: 24px;
                 }
 
-                @media (max-width: 576px) {
-                    .scroll-to-top {
-                        width: 40px;
-                        height: 40px;
-                        bottom: 20px;
-                        right: 20px;
-                    }
-
-                    .scroll-to-top i {
-                        font-size: 20px;
-                    }
-                }
+               
             `}</style>
         </div>
     );
