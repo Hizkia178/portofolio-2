@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { heroSectionData } from "../data/HeroData";
+import { heroSectionData } from '../data/heroData';
 import '../style/App.css';
 
 const Hero = () => {
