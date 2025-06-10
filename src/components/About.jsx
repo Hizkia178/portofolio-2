@@ -1,4 +1,4 @@
-import { aboutData } from "../data/aboutData";
+import { aboutData } from "../data/aboutData.jsx";
 const About = () => {
     const getIconClass = (iconName) => {
         const iconMap = {

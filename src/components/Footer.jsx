@@ -1,4 +1,4 @@
-import { footerData } from "../data/FooterData";
+import { footerData } from '../data/footerData.jsx';
 
 const Footer = () => {
     return (

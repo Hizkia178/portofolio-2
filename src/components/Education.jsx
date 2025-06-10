@@ -1,4 +1,4 @@
-import { educationData } from "../data/educationData";
+import { educationData } from "../data/educationData.jsx";
 
 const Education = () => {
     const getIconClass = (institution) => {

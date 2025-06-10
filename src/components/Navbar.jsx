@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { navbarData } from "../data/navbarData";
+import { navbarData } from "../data/navbarData.jsx";
 
 const Navbar = () => {
   const [activeMenu, setActiveMenu] = useState("hero");

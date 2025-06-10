@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { projectData } from "../data/ProjectData";
+import { projectData } from "../data/projectData.jsx";
 
 const Project = () => {
     const [activeTab, setActiveTab] = useState(projectData[0].id);

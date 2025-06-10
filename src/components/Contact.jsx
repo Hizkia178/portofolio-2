@@ -1,4 +1,4 @@
-import { contactData } from "../data/contactData";
+import { contactData } from "../data/contactData.jsx";
 
 const Contact = () => {
     return (
