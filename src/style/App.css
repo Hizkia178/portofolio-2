@@ -1,0 +1,8 @@
+body , html{
+  min-height: 100vh;
+  scroll-behavior: smooth;
+}
+
+section, nav {
+  overflow: hidden;
+}
